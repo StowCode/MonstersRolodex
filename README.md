@@ -1,3 +1,7 @@
+<h3>Monsters Rolodex</h3>
+
+<p>This reponsive website was built as an exercise to get more comfortable with React. The page fetches data from an online database, and then filters that data using the search box to instantly return the appropriate user</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
